@@ -4,9 +4,7 @@
 
 # Trabajo Práctico Individual N°1 - Normalización de Datos
 
-## Una empresa de ventas de productos al público tomo la decision de empezar a ser una empresa Data-driven. 
-## ¿Que significa esto? Data-Driven es un concepto en el cual los datos son el centro a la hora de tomar decisiones
-## Sin embargo se dieron cuenta que los datos que tiene en sus sistemas pueden no ser de tan buena calidad como ellos creian tener. 
+## Una empresa de ventas de productos al público tomo la decision de empezar a ser una empresa Data-driven. ¿Que significa esto? Data-Driven es un concepto en el cual los datos son el centro a la hora de tomar decisiones. Sin embargo se dieron cuenta que los datos que tiene en sus sistemas pueden no ser de tan buena calidad como ellos creian tener. 
 
 En base a esto, se tomo la decision gerencial de primeramente crear una base de datos, teniendo en cuenta las principales entidades que son las ventas, compras y gastos.
 Teniendo dicha base de datos, con sus respectivas tablas, va a ser necesario tener un documento donde se detalle la estructura de la tabla y un diccionario de datos para poder comprender mejor el panorama
