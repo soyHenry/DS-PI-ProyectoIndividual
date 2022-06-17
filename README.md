@@ -22,13 +22,13 @@ Para ello, vamos a contar con una tabla de localidades (analicemos la calidada t
 
 Para llevar adelante todo este proceso tenemos los siguientes datasets
 
-Clientes.csv
-Compra.csv
-Gasto.csv
-Localidades.csv
-Proveedores.csv
-Sucursales.csv
-Venta.csv
+Clientes.csv <br>
+Compra.csv<br>
+Gasto.csv<br>
+Localidades.csv<br>
+Proveedores.csv<br>
+Sucursales.csv<br>
+Venta.csv<br>
 
 y a ultimo momento, nos avisaron que hay otro dataset de clientes (Clientes_2.csv) y no nos descartan que puedan aparecer otros, asi que por las dudas deberiamos contemplar que nuestro proceso pueda incluir mas dataset de clientes y que no haya problemas de duplicados.
 Esto deberia ser automatico, asi que pensemos algo robusto para no tener problemas a futuro.
