@@ -40,9 +40,9 @@ Se dejan aqui unos calculos financieros que pueden servir de ayuda:<br>
 Se dejan aqui unos ejemplos para la parte grafica:<br>
 
 ![img1](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655704802024.png)
-![img2](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655704803889.png)
-![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655704805872.png)
-![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655971323111.png)
+![img2](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655704803889.png)
+![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655704805872.png)
+![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/blob/main/PI_02/1655971323111.png)
 
 
 
