@@ -8,7 +8,9 @@
 Este índice se basa en la capitalización bursátil de 500 grandes empresas que poseen acciones que cotizan en las bolsas NYSE o NASDAQ, y captura aproximadamente el 80% de toda la capitalización de mercado.</p>
 Luego del éxito que tuvo el informe ejecutivo y la normalización de datos del proyecto anterior, se solicitó al área de Datos ayuda con el análisis sobre los distintas empresas a lo largo del tiempo para comprender mejor el mercado, y poder tomar decisiones en base a nuestras recomendaciones.
 
+* Se trabajara con los periodos contemplados entre 01/01/2000 y 31/12/2021<br>
 Para este trabajo se utilizará la API de yahoo finance, cual posee su librería https://pypi.org/project/yfinance/ y página oficial https://finance.yahoo.com/ <br>
+
 
 Los indicadores que se tomaron en cuenta fueron los siguientes
 
