@@ -39,10 +39,10 @@ Se dejan aqui unos calculos financieros que pueden servir de ayuda:<br>
 
 Se dejan aqui unos ejemplos para la parte grafica:<br>
 
-1655704802024.jfif<br>
-1655704803889.jfif<br>
-1655704805872.jfif<br>
-1655971323111.jfif<br>
+![img1](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655704802024.png)
+![img2](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655704803889.png)
+![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655704805872.png)
+![img3](https://github.com/soyHenry/DS-PI-ProyectoIndividual/tree/main/PI_021655971323111.png)
 
 Es necesario que determinen de manera grafica dichos indicadores.<br>
 
