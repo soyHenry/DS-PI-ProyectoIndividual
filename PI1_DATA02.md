@@ -7,6 +7,8 @@
 Enlace de la página: https://estadisticasbcra.com/  
 Documentación: https://estadisticasbcra.com/api/documentacion
 
+Informe sobre dólar en Argentina para un grupo financiero. Tener en cuenta que la gerencia le puede llegar a requerir nuevas consultas.
+
 Importar librerías  
 Automatizar código  
 Token BCRA  
