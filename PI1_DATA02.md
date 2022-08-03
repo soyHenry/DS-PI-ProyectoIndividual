@@ -20,7 +20,7 @@ Preguntas
  * Dólar oficial vs Dólar Blue:   
     * Últimos 365 días:
         * 1) Día con mayor variación en la brecha  
-        * 2) Top 5 días con mayor volatilidad  
+        * 2) Top 5 días con mayor variación  
         * 3) Semana con mayor variación en la brecha  
         * 4) Día de la semana donde hay mayor variación en la brecha   
 
