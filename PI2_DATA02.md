@@ -30,7 +30,7 @@ Para guiar nuestro trabajo, nuestro Team Líder nos facilita un cuestionario. En
 
 6 - ¿Cuántas muertes por covid hubo, por Estado, durante el año 2021? 
 
-7 - ¿Qué relación presenta la falta de camas UCI disponibles con la cantidad de muertes durante el año 2021?
+7 - ¿Qué relación presenta la falta de personal médico, con la cantidad de muertes por covid durante el año 2021?
 
 8 - Siguiendo las respuestas anteriores, ¿cuál fue el peor mes de la pandemia para USA en su conjunto? Puede utilizar otras medidas que considere necesarias.
 
