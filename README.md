@@ -14,4 +14,4 @@ _____
 | CT      | Connecticut      |               14.5507 |
 | LA      | Luisiana     |               13.7848 |
 
-![pregunta01](src\img01.png)
+![src\img01.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img01.png)
