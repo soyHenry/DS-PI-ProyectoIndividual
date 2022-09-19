@@ -75,7 +75,7 @@ Los estados que ocuparon (%) mas camas UCI:
 ### 6 - Para el 2021, se contaron con muchos descesos por la Covid-19, aqui se presenta un detalle de los 05 estados con mayores indices de muertes por la pandemia, Califormia fue uno de los estados más afectados.
 
 Estados con mayor deceso, 2021: 
- |    | state_name     | state   |   deaths_covid |
+| state_name     | state   |   deaths_covid |
 |:---------------|:--------|---------------:|
 | California     | CA      |          35108 |
 | Texas​      | TX      |          32889 |
@@ -87,9 +87,9 @@ Estados con mayor deceso, 2021:
 
 ### 7 - Se vino informando de la falta de personal durante todo el año, teniendo una falta en promedio de mas de 1,000 profesionales de la salud, teniendo como las cosecuencias no poder mantener estable los indicadores de nuevos paciente y muertes por COVID-19.
 
-![src\img07m.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img07m.png)
+![src\img07m.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img07.png)
 
 ### 8 - El mes de Mayo del 2020, fue uno de los peores meses para el país, los 50 estados de EE.UU. habían comenzado a reabrir al menos parcialmente las empresas comerciales, entre las advertencias de la comunidad científica por el riesgo de "nuevos picos" y un número clavado en la mente de muchos: 100.000 muertos, según el recuento de Johns Hopkins, y fue el mes con maroyes casos de muertes por covid-19.
     
 
-![src\img08m.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img08m.png)
+![src\img08m.png](https://github.com/Jhlirion/DS-PI-ProyectoIndividual/blob/main/src/img08.png)
