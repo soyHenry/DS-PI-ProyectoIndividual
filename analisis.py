@@ -12,22 +12,23 @@ import plotly.express as px
 cf.set_config_file(sharing='public', theme='ggplot', offline=True)
 
 
+def nom_est():
+        #nombre de los estados
+    nam = pd.read_html('https://es.wikipedia.org/wiki/Estado_de_los_Estados_Unidos')[1]
+    nam = nam[['Abrev.','Estado']]
+    nam.rename(columns={'Abrev.':'state', 'Estado':'state_name'}, inplace=True)
+    return nam
+
 def cargadata():
     #descarga de datos y limpieza
-    df = pd.read_csv('DS-PI-ProyectoIndividual\COVID-19_Reported_Patient_Impact_and_Hospital_Capacity_by_State_Timeseries.csv', )
+    df = pd.read_csv('D:\Proyectos\DS-PI-ProyectoIndividual\data\COVID-19_Reported_Patient_Impact_and_Hospital_Capacity_by_State_Timeseries.csv')
     df = pd.merge(df, nom_est()[['state', 'state_name']], on=['state'], how='left')
     df['date'] = pd.to_datetime(df['date'])
     df = df.sort_values(['date'])
     df['Year']  = pd.DatetimeIndex(df['date']).year
     df.reset_index(drop=True, inplace=True)
+    
     return df
-
-def nom_est():
-    #nombre de los estados
-    nam = pd.read_html('https://es.wikipedia.org/wiki/Estado_de_los_Estados_Unidos')[1]
-    nam = nam[['Abrev.','Estado']]
-    nam.rename(columns={'Abrev.':'state', 'Estado':'state_name'}, inplace=True)
-    return nam
     
 df = cargadata()
 nam = nom_est()
