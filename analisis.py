@@ -1,16 +1,5 @@
-import requests
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-import datetime as dt
-import cufflinks as cf
-from IPython.display import display, HTML
-from sodapy import Socrata
-import plotly.express as px
-
-cf.set_config_file(sharing='public', theme='ggplot', offline=True)
-
 
 def nom_est():
         #nombre de los estados
